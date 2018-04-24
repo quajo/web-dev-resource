@@ -21,6 +21,7 @@
 # Resources
   - https://www.codeschool.com/beginners-guide-to-web-development
   - https://www.khanacademy.org/computing/computer-programming/html-css
+  - https://www.teaching-materials.org/htmlcss-2day/
 
 
 # TODOS
