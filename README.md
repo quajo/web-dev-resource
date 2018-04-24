@@ -1,7 +1,7 @@
 # Workflow
   - Git (Version Control)
   - Research (Google)
-  - Testing*
+  - Testing *
   - Terminal Usage
   - Design Patterns
   - UI/UX
@@ -22,7 +22,9 @@
   - https://www.codeschool.com/beginners-guide-to-web-development
   - https://www.khanacademy.org/computing/computer-programming/html-css
   - https://www.teaching-materials.org/htmlcss-2day/
+  - https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
 
 
 # TODOS
   - Create codeschool account
+
